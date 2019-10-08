@@ -1,0 +1,19 @@
+{
+  "name": "puginsframeworkspike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "refreshVSToken": "vsts-npm-auth -config .npmrc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almogohayon1/PuginsFrameworkSpike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almogohayon1/PuginsFrameworkSpike/issues"
+  },
+  "homepage": "https://github.com/almogohayon1/PuginsFrameworkSpike#readme"
+}
